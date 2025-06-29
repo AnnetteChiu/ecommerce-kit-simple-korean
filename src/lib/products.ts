@@ -88,7 +88,7 @@ export const products: Product[] = [
     description: 'A vibrant wrap dress in a sun-kissed yellow, perfect for summer days. The wrap design creates a customizable and flattering fit.',
     price: 130.00,
     category: 'Dresses',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/472fe4c6-c2ba-4b2e-a579-deea4dafa9e9.jpg',
+    image: 'https://i3.codibook.net/files/1981051619220/3a4c016e64ac5b48/1490629217.jpg',
     dataAiHint: 'yellow dress',
   },
   {
