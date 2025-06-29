@@ -4,12 +4,12 @@ export const products: Product[] = [
   {
     id: '1',
     name: 'Classic White Tee',
-    brand: 'paknamae',
+    brand: 'SONA',
     description: 'A versatile and comfortable white tee, a staple for any wardrobe. Made from soft, high-quality cotton.',
     price: 45.00,
     category: 'Tops',
-    image: 'https://i4.codibook.net/files/1982112685804/edabfea5b35cf5fe/1172887762.jpg',
-    dataAiHint: 'white tee blazer',
+    image: 'https://i3.codibook.net/files/1982090162402/f8c8ca321872c7ae/480315438.jpg',
+    dataAiHint: 'white t-shirt',
   },
   {
     id: '2',
