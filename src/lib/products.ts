@@ -48,7 +48,7 @@ export const products: Product[] = [
     description: 'A minimalist pendant necklace featuring a polished golden orb on a delicate chain. Adds a touch of modern elegance to any outfit.',
     price: 75.00,
     category: 'Accessories',
-    image: 'https://s3.codibook.net/codibook/2024/05/16/6f6f96cf-718e-4735-86a0-4f590ff9e17b.jpg',
+    image: 'https://i3.codibook.net/files/1980112673220/52a41dafe36b6c28/87541929.jpg',
     dataAiHint: 'gold necklace',
   },
   {
