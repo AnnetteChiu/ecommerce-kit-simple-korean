@@ -4,6 +4,7 @@ export const products: Product[] = [
   {
     id: '1',
     name: 'Azure Silk Blouse',
+    brand: 'paknamae',
     description: 'A luxurious silk blouse in a vibrant azure hue, featuring a classic collar and button-front closure. Perfect for both office and evening wear.',
     price: 120.00,
     category: 'Tops',
@@ -13,6 +14,7 @@ export const products: Product[] = [
   {
     id: '2',
     name: 'High-Waisted Linen Trousers',
+    brand: 'From Beginning',
     description: 'Effortlessly chic high-waisted trousers crafted from breathable linen. Features a wide-leg silhouette and a comfortable elasticated waistband.',
     price: 95.00,
     category: 'Bottoms',
@@ -22,6 +24,7 @@ export const products: Product[] = [
   {
     id: '3',
     name: 'Midnight Floral Midi Dress',
+    brand: 'Loonough',
     description: 'A romantic midi dress adorned with a delicate midnight floral print. Designed with a flattering V-neckline and a flowing A-line skirt.',
     price: 155.00,
     category: 'Dresses',
@@ -31,6 +34,7 @@ export const products: Product[] = [
   {
     id: '4',
     name: 'Classic Trench Coat',
+    brand: 'BOKPLACE',
     description: 'An iconic, double-breasted trench coat in a timeless beige. Made from water-resistant cotton gabardine, it\'s a versatile wardrobe staple.',
     price: 250.00,
     category: 'Outerwear',
@@ -40,6 +44,7 @@ export const products: Product[] = [
   {
     id: '5',
     name: 'Golden Orb Pendant',
+    brand: 'wannabemuse',
     description: 'A minimalist pendant necklace featuring a polished golden orb on a delicate chain. Adds a touch of modern elegance to any outfit.',
     price: 75.00,
     category: 'Accessories',
@@ -49,6 +54,7 @@ export const products: Product[] = [
   {
     id: '6',
     name: 'Cashmere Knit Sweater',
+    brand: 'StyleNanda',
     description: 'Indulgently soft and warm, this crewneck sweater is spun from pure cashmere. A cozy essential for cooler days.',
     price: 180.00,
     category: 'Tops',
@@ -58,6 +64,7 @@ export const products: Product[] = [
   {
     id: '7',
     name: 'Pleated A-Line Skirt',
+    brand: 'Chuu',
     description: 'A sophisticated A-line skirt with sharp pleats that create beautiful movement. Cut to a versatile midi length in a rich navy color.',
     price: 110.00,
     category: 'Bottoms',
@@ -67,6 +74,7 @@ export const products: Product[] = [
   {
     id: '8',
     name: 'Leather Crossbody Bag',
+    brand: 'IMVELY',
     description: 'A compact and stylish crossbody bag crafted from supple Italian leather. Features a secure zip closure and an adjustable strap.',
     price: 195.00,
     category: 'Accessories',
@@ -76,6 +84,7 @@ export const products: Product[] = [
   {
     id: '9',
     name: 'Sun-Kissed Wrap Dress',
+    brand: 'Dabagirl',
     description: 'A vibrant wrap dress in a sun-kissed yellow, perfect for summer days. The wrap design creates a customizable and flattering fit.',
     price: 130.00,
     category: 'Dresses',
@@ -85,6 +94,7 @@ export const products: Product[] = [
   {
     id: '10',
     name: 'Quilted Puffer Jacket',
+    brand: 'ATTRANGS',
     description: 'Stay warm without sacrificing style in this lightweight quilted puffer jacket. Filled with eco-friendly insulation for superior warmth.',
     price: 210.00,
     category: 'Outerwear',
@@ -94,6 +104,7 @@ export const products: Product[] = [
   {
     id: '11',
     name: 'Striped Cotton Tee',
+    brand: '66girls',
     description: 'A wardrobe classic, this long-sleeve tee is made from soft, breathable cotton with timeless Breton stripes.',
     price: 55.00,
     category: 'Tops',
@@ -103,6 +114,7 @@ export const products: Product[] = [
   {
     id: '12',
     name: 'Denim A-Line Skirt',
+    brand: 'SONA',
     description: 'A vintage-inspired A-line skirt made from structured denim. Features a button-front design and a flattering high-rise waist.',
     price: 85.00,
     category: 'Bottoms',

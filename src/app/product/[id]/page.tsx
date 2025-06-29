@@ -23,12 +23,12 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
     <div className="container mx-auto p-4 md:p-8">
       <div className="grid md:grid-cols-2 gap-8 lg:gap-16 items-start">
         <div className="sticky top-24">
-            <div className="rounded-lg overflow-hidden shadow-lg bg-card aspect-square">
+            <div className="rounded-lg overflow-hidden shadow-lg bg-card aspect-[3/4]">
                  <Image
                     src={product.image}
                     alt={product.name}
                     width={800}
-                    height={800}
+                    height={1067}
                     className="object-cover w-full h-full"
                     data-ai-hint={product.dataAiHint}
                     priority
@@ -37,13 +37,14 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
         </div>
         <div className="flex flex-col space-y-6">
           <div className="space-y-3">
-             <Badge variant="outline" className="text-sm font-body">{product.category}</Badge>
-            <h1 className="text-4xl lg:text-5xl font-headline font-bold text-primary tracking-tight">{product.name}</h1>
+            <p className="text-lg font-semibold">{product.brand}</p>
+            <Badge variant="outline" className="text-sm">{product.category}</Badge>
+            <h1 className="text-4xl lg:text-5xl font-bold text-primary tracking-tight">{product.name}</h1>
             <p className="text-lg text-muted-foreground leading-relaxed">{product.description}</p>
           </div>
           
           <div className="flex items-baseline gap-4">
-             <span className="text-4xl font-bold font-headline text-primary">${product.price.toFixed(2)}</span>
+             <span className="text-4xl font-bold text-primary">${product.price.toFixed(2)}</span>
           </div>
 
           <Separator />

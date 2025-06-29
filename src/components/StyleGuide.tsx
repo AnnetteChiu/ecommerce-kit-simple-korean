@@ -28,7 +28,7 @@ export async function StyleGuide({ productName, productDescription }: StyleGuide
             <div className="inline-block bg-primary text-primary-foreground rounded-full p-3 mx-auto mb-4">
                 <Wand2 className="h-8 w-8" />
             </div>
-            <CardTitle className="font-headline text-3xl text-primary">Style Guide</CardTitle>
+            <CardTitle className="text-3xl text-primary">Style Guide</CardTitle>
             <CardDescription>AI-powered recommendations to complete your look.</CardDescription>
         </CardHeader>
         <CardContent>
@@ -38,7 +38,7 @@ export async function StyleGuide({ productName, productDescription }: StyleGuide
                 <li key={index} className="flex items-start gap-4">
                     <div className="flex-shrink-0 h-3 w-3 mt-2 rounded-full bg-primary" />
                     <div>
-                        <h4 className="font-bold font-headline text-lg text-foreground">{rec.name}</h4>
+                        <h4 className="font-bold text-lg text-foreground">{rec.name}</h4>
                         <p className="text-muted-foreground">{rec.description}</p>
                     </div>
                 </li>
