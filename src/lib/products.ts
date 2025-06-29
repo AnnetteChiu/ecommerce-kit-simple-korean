@@ -58,7 +58,7 @@ export const products: Product[] = [
     description: 'Indulgently soft and warm, this crewneck sweater is spun from pure cashmere. A cozy essential for cooler days.',
     price: 180.00,
     category: 'Tops',
-    image: 'https://s3.codibook.net/codibook/2024/05/13/9b46fbd0-6d43-43a0-8321-72f567b55e34.jpg',
+    image: 'https://i4.codibook.net/files/1982112615608/7e0c5ad229c12bea/471930924.jpg',
     dataAiHint: 'cashmere sweater',
   },
   {
