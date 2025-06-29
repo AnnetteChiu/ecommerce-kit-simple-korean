@@ -11,13 +11,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 's3.codibook.net',
-        port: '',
-        pathname: '/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'i4.codibook.net',
+        hostname: '**.codibook.net',
         port: '',
         pathname: '/**',
       },

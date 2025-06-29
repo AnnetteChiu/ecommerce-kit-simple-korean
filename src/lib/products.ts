@@ -18,7 +18,7 @@ export const products: Product[] = [
     description: 'Effortlessly chic high-waisted trousers crafted from breathable linen. Features a wide-leg silhouette and a comfortable elasticated waistband.',
     price: 95.00,
     category: 'Bottoms',
-    image: 'https://s3.codibook.net/codibook/2024/05/16/a27e3d17-913a-493e-8c31-90a42427a1de.jpg',
+    image: 'https://i3.codibook.net/files/1982100371404/0e666f6923db0a06/1060252598.jpg',
     dataAiHint: 'linen trousers',
   },
   {
