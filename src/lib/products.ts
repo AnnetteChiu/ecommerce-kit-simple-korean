@@ -93,13 +93,13 @@ export const products: Product[] = [
   },
   {
     id: '10',
-    name: 'Quilted Puffer Jacket',
+    name: 'Linen Blend Blazer',
     brand: 'ATTRANGS',
-    description: 'Stay warm without sacrificing style in this lightweight quilted puffer jacket. Filled with eco-friendly insulation for superior warmth.',
-    price: 210.00,
+    description: 'A chic and lightweight blazer made from a comfortable linen blend. Perfect for layering over dresses or tops for a polished look.',
+    price: 150.00,
     category: 'Outerwear',
-    image: 'https://s3.codibook.net/codibook/2024/02/19/2f170f7a-8d07-4228-89c5-8495f269a834.jpg',
-    dataAiHint: 'puffer jacket',
+    image: 'https://i3.codibook.net/files/198209253003/755663b091b82be9/1182928204.jpg',
+    dataAiHint: 'linen blazer',
   },
   {
     id: '11',
