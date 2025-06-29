@@ -8,8 +8,8 @@ export const products: Product[] = [
     description: 'A versatile and comfortable white tee, a staple for any wardrobe. Made from soft, high-quality cotton.',
     price: 45.00,
     category: 'Tops',
-    image: 'https://i4.codibook.net/files/198212016603/4a3c82e447a057b9/20745727.jpg',
-    dataAiHint: 'white tee',
+    image: 'https://i4.codibook.net/files/1982112685804/edabfea5b35cf5fe/1172887762.jpg',
+    dataAiHint: 'white tee blazer',
   },
   {
     id: '2',
