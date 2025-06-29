@@ -7,7 +7,7 @@ export const products: Product[] = [
     description: 'A luxurious silk blouse in a vibrant azure hue, featuring a classic collar and button-front closure. Perfect for both office and evening wear.',
     price: 120.00,
     category: 'Tops',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/3494541f-8646-4e08-9993-4a11b626d708.jpg',
     dataAiHint: 'silk blouse',
   },
   {
@@ -16,7 +16,7 @@ export const products: Product[] = [
     description: 'Effortlessly chic high-waisted trousers crafted from breathable linen. Features a wide-leg silhouette and a comfortable elasticated waistband.',
     price: 95.00,
     category: 'Bottoms',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/16/a27e3d17-913a-493e-8c31-90a42427a1de.jpg',
     dataAiHint: 'linen trousers',
   },
   {
@@ -25,7 +25,7 @@ export const products: Product[] = [
     description: 'A romantic midi dress adorned with a delicate midnight floral print. Designed with a flattering V-neckline and a flowing A-line skirt.',
     price: 155.00,
     category: 'Dresses',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/1c6d860d-0346-46c5-a359-bb43e9447e17.jpg',
     dataAiHint: 'floral dress',
   },
   {
@@ -34,7 +34,7 @@ export const products: Product[] = [
     description: 'An iconic, double-breasted trench coat in a timeless beige. Made from water-resistant cotton gabardine, it\'s a versatile wardrobe staple.',
     price: 250.00,
     category: 'Outerwear',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/03/13/2827178c-0f9c-4ecf-94d0-a08b98bf8953.jpg',
     dataAiHint: 'trench coat',
   },
   {
@@ -43,7 +43,7 @@ export const products: Product[] = [
     description: 'A minimalist pendant necklace featuring a polished golden orb on a delicate chain. Adds a touch of modern elegance to any outfit.',
     price: 75.00,
     category: 'Accessories',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/16/6f6f96cf-718e-4735-86a0-4f590ff9e17b.jpg',
     dataAiHint: 'gold necklace',
   },
   {
@@ -52,7 +52,7 @@ export const products: Product[] = [
     description: 'Indulgently soft and warm, this crewneck sweater is spun from pure cashmere. A cozy essential for cooler days.',
     price: 180.00,
     category: 'Tops',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/13/9b46fbd0-6d43-43a0-8321-72f567b55e34.jpg',
     dataAiHint: 'cashmere sweater',
   },
   {
@@ -61,7 +61,7 @@ export const products: Product[] = [
     description: 'A sophisticated A-line skirt with sharp pleats that create beautiful movement. Cut to a versatile midi length in a rich navy color.',
     price: 110.00,
     category: 'Bottoms',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/8e2029ca-e737-45e0-84c1-90209c1fa418.jpg',
     dataAiHint: 'pleated skirt',
   },
   {
@@ -70,7 +70,7 @@ export const products: Product[] = [
     description: 'A compact and stylish crossbody bag crafted from supple Italian leather. Features a secure zip closure and an adjustable strap.',
     price: 195.00,
     category: 'Accessories',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/49a9000a-5c26-4763-9556-91e848604d55.jpg',
     dataAiHint: 'leather bag',
   },
   {
@@ -79,7 +79,7 @@ export const products: Product[] = [
     description: 'A vibrant wrap dress in a sun-kissed yellow, perfect for summer days. The wrap design creates a customizable and flattering fit.',
     price: 130.00,
     category: 'Dresses',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/472fe4c6-c2ba-4b2e-a579-deea4dafa9e9.jpg',
     dataAiHint: 'yellow dress',
   },
   {
@@ -88,7 +88,7 @@ export const products: Product[] = [
     description: 'Stay warm without sacrificing style in this lightweight quilted puffer jacket. Filled with eco-friendly insulation for superior warmth.',
     price: 210.00,
     category: 'Outerwear',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/02/19/2f170f7a-8d07-4228-89c5-8495f269a834.jpg',
     dataAiHint: 'puffer jacket',
   },
   {
@@ -97,7 +97,7 @@ export const products: Product[] = [
     description: 'A wardrobe classic, this long-sleeve tee is made from soft, breathable cotton with timeless Breton stripes.',
     price: 55.00,
     category: 'Tops',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/16/e06b72a9-7c48-472d-ac15-d91d1e43d1a8.jpg',
     dataAiHint: 'striped shirt',
   },
   {
@@ -106,7 +106,7 @@ export const products: Product[] = [
     description: 'A vintage-inspired A-line skirt made from structured denim. Features a button-front design and a flattering high-rise waist.',
     price: 85.00,
     category: 'Bottoms',
-    image: 'https://placehold.co/600x600.png',
+    image: 'https://s3.codibook.net/codibook/2024/05/17/4517336b-d36c-4b5b-801e-c76b7f300c7e.jpg',
     dataAiHint: 'denim skirt',
   },
 ];
