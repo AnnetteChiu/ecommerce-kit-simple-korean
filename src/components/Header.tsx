@@ -38,7 +38,7 @@ export default function Header() {
             </>
           ) : (
             <Button asChild>
-              <Link href="/login">Create Account</Link>
+              <Link href="/login">Login</Link>
             </Button>
           )}
         </nav>
