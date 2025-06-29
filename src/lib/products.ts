@@ -23,13 +23,13 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Midnight Floral Midi Dress',
+    name: 'Elegant Black Midi Dress',
     brand: 'Loonough',
-    description: 'A romantic midi dress adorned with a delicate midnight floral print. Designed with a flattering V-neckline and a flowing A-line skirt.',
+    description: 'An elegant black midi dress with a timeless silhouette. Perfect for any occasion, it features a classic neckline and a graceful, flowing skirt.',
     price: 155.00,
     category: 'Dresses',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/1c6d860d-0346-46c5-a359-bb43e9447e17.jpg',
-    dataAiHint: 'floral dress',
+    image: 'https://i3.codibook.net/files/1982111037201/cf7272c37de6b187/965439940.jpg',
+    dataAiHint: 'black dress',
   },
   {
     id: '4',
