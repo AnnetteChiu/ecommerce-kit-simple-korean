@@ -65,10 +65,10 @@ export const products: Product[] = [
     id: '7',
     name: 'Pleated A-Line Skirt',
     brand: 'Chuu',
-    description: 'A sophisticated A-line skirt with sharp pleats that create beautiful movement. Cut to a versatile midi length in a rich navy color.',
+    description: 'A sophisticated A-line skirt with sharp pleats that create beautiful movement. Cut to a versatile midi length in a chic beige.',
     price: 110.00,
     category: 'Bottoms',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/8e2029ca-e737-45e0-84c1-90209c1fa418.jpg',
+    image: 'https://i3.codibook.net/files/1982111055202/6fc1c8824b6f1014/134076189.jpg',
     dataAiHint: 'pleated skirt',
   },
   {
