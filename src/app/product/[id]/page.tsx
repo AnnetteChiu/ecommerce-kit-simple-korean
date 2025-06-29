@@ -32,6 +32,7 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
                     className="object-cover w-full h-full"
                     data-ai-hint={product.dataAiHint}
                     priority
+                    unoptimized
                 />
             </div>
         </div>

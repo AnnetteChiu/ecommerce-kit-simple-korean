@@ -15,12 +15,6 @@ const nextConfig = {
         port: '',
         pathname: '/**',
       },
-      {
-        protocol: 'https',
-        hostname: 's3.codibook.net',
-        port: '',
-        pathname: '/**',
-      },
     ],
   },
 };
