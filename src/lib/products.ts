@@ -113,12 +113,12 @@ export const products: Product[] = [
   },
   {
     id: '12',
-    name: 'Denim A-Line Skirt',
+    name: 'Classic Black Trousers',
     brand: 'SONA',
-    description: 'A vintage-inspired A-line skirt made from structured denim. Features a button-front design and a flattering high-rise waist.',
+    description: 'Timeless black trousers with a clean silhouette, perfect for both office and casual wear.',
     price: 85.00,
     category: 'Bottoms',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/4517336b-d36c-4b5b-801e-c76b7f300c7e.jpg',
-    dataAiHint: 'denim skirt',
+    image: 'https://i3.codibook.net/files/1982090166002/e43fb48bcc159ee1/422840155.jpg',
+    dataAiHint: 'black trousers',
   },
 ];
