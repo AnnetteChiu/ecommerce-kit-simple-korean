@@ -78,7 +78,7 @@ export const products: Product[] = [
     description: 'A compact and stylish crossbody bag crafted from supple Italian leather. Features a secure zip closure and an adjustable strap.',
     price: 195.00,
     category: 'Accessories',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/49a9000a-5c26-4763-9556-91e848604d55.jpg',
+    image: 'https://i4.codibook.net/files/1982112735404/26511a24babf61f6/1546042652.jpg',
     dataAiHint: 'leather bag',
   },
   {
