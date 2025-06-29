@@ -103,13 +103,13 @@ export const products: Product[] = [
   },
   {
     id: '11',
-    name: 'Striped Cotton Tee',
+    name: 'Ribbed Knit Top',
     brand: '66girls',
-    description: 'A wardrobe classic, this long-sleeve tee is made from soft, breathable cotton with timeless Breton stripes.',
+    description: 'A flattering and versatile ribbed knit top. A comfortable and stylish piece for any casual occasion.',
     price: 55.00,
     category: 'Tops',
-    image: 'https://s3.codibook.net/codibook/2024/05/16/e06b72a9-7c48-472d-ac15-d91d1e43d1a8.jpg',
-    dataAiHint: 'striped shirt',
+    image: 'https://i3.codibook.net/files/1982091867855/cae25e234e820dc6/1634501511.jpg',
+    dataAiHint: 'white top',
   },
   {
     id: '12',
