@@ -38,7 +38,7 @@ export const products: Product[] = [
     description: 'An iconic, double-breasted trench coat in a timeless beige. Made from water-resistant cotton gabardine, it\'s a versatile wardrobe staple.',
     price: 250.00,
     category: 'Outerwear',
-    image: 'https://s3.codibook.net/codibook/2024/03/13/2827178c-0f9c-4ecf-94d0-a08b98bf8953.jpg',
+    image: 'https://i3.codibook.net/files/1982102326424/f1ec0fb57fcbf3e1/423208310.jpg',
     dataAiHint: 'trench coat',
   },
   {
