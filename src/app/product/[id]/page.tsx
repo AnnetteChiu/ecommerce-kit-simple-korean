@@ -22,7 +22,7 @@ export default function ProductDetailPage({ params }: { params: { id: string } }
   return (
     <div className="container mx-auto p-4 md:p-8">
       <div className="grid md:grid-cols-2 gap-8 lg:gap-16 items-start">
-        <div className="sticky top-24">
+        <div className="sticky top-20">
             <div className="rounded-lg overflow-hidden shadow-lg bg-card aspect-[3/4]">
                  <Image
                     src={product.image}
