@@ -21,7 +21,6 @@ export function ProductCard({ product }: ProductCardProps) {
             height={800}
             className="object-cover w-full h-full"
             data-ai-hint={product.dataAiHint}
-            unoptimized
           />
         </div>
         <CardContent className="p-2 flex-grow">

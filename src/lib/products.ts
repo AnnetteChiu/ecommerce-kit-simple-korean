@@ -3,13 +3,13 @@ import type { Product } from './types';
 export const products: Product[] = [
   {
     id: '1',
-    name: 'Azure Silk Blouse',
+    name: 'Classic White Tee',
     brand: 'paknamae',
-    description: 'A luxurious silk blouse in a vibrant azure hue, featuring a classic collar and button-front closure. Perfect for both office and evening wear.',
-    price: 120.00,
+    description: 'A versatile and comfortable white tee, a staple for any wardrobe. Made from soft, high-quality cotton.',
+    price: 45.00,
     category: 'Tops',
-    image: 'https://s3.codibook.net/codibook/2024/05/17/3494541f-8646-4e08-9993-4a11b626d708.jpg',
-    dataAiHint: 'silk blouse',
+    image: 'https://i4.codibook.net/files/198212016603/4a3c82e447a057b9/20745727.jpg',
+    dataAiHint: 'white tee',
   },
   {
     id: '2',
