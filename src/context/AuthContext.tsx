@@ -28,18 +28,6 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
     return () => unsubscribe();
   }, []);
 
-  if (loading) {
-    return (
-      <div className="flex items-center justify-center h-screen bg-background">
-        <div className="flex flex-col items-center space-y-4">
-            <Skeleton className="h-16 w-16 rounded-full" />
-            <Skeleton className="h-4 w-[250px]" />
-            <Skeleton className="h-4 w-[200px]" />
-        </div>
-      </div>
-    );
-  }
-
   return (
     <AuthContext.Provider value={{ user, loading }}>
       {children}
